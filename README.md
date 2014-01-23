@@ -11,7 +11,7 @@ This is a stripped down fork of [thomas-mcdonald/bootstrap-sass](https://github.
 Version
 ---
 
-**3.0.2**
+**3.0.3**
 
 [Semver](http://semver.org) tags map to actual [Twitter Bootstrap](http://getbootstrap.com) versions. Custom suffixes may appear for maintenance.
 
