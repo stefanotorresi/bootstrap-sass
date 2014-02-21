@@ -1,11 +1,17 @@
 YATSATRAP!
 ===
 
+This package is discontinued
+===
+
+Since the awesome work of [Thomas McDonald](https://github.com/thomas-mcdonald) has become an official distribution of Twitter Bootstrap, this package is no longer needed. Please refer to [twbs/bootstrap-sass](https://github.com/twbs/bootstrap-sass) instead.
+
+
 Yet Another Twitter SAss bootsTRAP
 ---
 *(yeah, i know...)*
 
-This is a stripped down fork of [thomas-mcdonald/bootstrap-sass](https://github.com/thomas-mcdonald/bootstrap-sass), without all the rails/compass install/build/integration superbloated toolkit. Just plain SASS and JS.
+This is a stripped down fork of [thomas-mcdonald/bootstrap-sass](https://github.com/thomas-mcdonald/bootstrap-sass), without all the ruby install/build toolkit. Just plain SASS and JS sources.
 
 
 Version
